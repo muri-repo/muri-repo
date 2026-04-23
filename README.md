@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/278528486?v=4&size=10" alt="Scalable Systems Banner" width="10%">
 </p>
 
-<h1 align="center">Hi, I'm King ⚡</h1>
+<h1 align="center">Hi, I'm a Dev ⚡</h1>
 <p align="center">
   <b>Full-Stack Developer | Aspiring Computer Engineer</b><br>
   Focused on High-Performance Systems & Premium UI/UX
