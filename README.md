@@ -40,25 +40,6 @@
 * sportsdb : A Data as a Service platform for real time sports analytics.
 * Linux Customizations: Crafting custom UI widgets for Arch Linux.
 
-### 📊 My Stats
-<p align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=muri-repo&show_icons=true&theme=highcontrast&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&hide_rank=false" width="100%" alt="Core GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=muri-repo&theme=highcontrast&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&side_nums=FFD700&side_text=FFFFFF&fire=FFD700" width="100%" alt="Contribution Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muri-repo&layout=compact&theme=highcontrast&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&hide_langs_below=1" width="70%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/king-nnawoke-086945271/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -71,4 +52,10 @@
   <a href="mailto:YOUR_EMAIL_ADDRESS" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+</p>
+
+## 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muri-repo/muri-repo/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
