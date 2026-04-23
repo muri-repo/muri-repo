@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://avatars.githubusercontent.com/u/278528486?v=4&size=10" alt="Scalable Systems Banner" width="10%">
+  <img src="https://avatars.githubusercontent.com/u/278528486?v=4&size=64" alt="Scalable Systems Banner" width="10%">
 </p>
 
 <h1 align="center">Hi, I'm a Dev ⚡</h1>
