@@ -1,13 +1,16 @@
-<p align="left">
-  <img src="https://avatars.githubusercontent.com/u/278528486?v=4&size=64" alt="Scalable Systems Banner" width="10%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/piyomuri/piyomuri/main/Assets/mascot.svg" alt="piyomuri mascot.svg" width="180">
 </p>
 
-<h1 align="center">Hi, I'm a Dev ⚡</h1>
+<h1 align="center">PIYOMURI</h1>
 <p align="center">
   <b>Full-Stack Developer | Aspiring Computer Engineer</b><br>
   Focused on High-Performance Systems & Premium UI/UX
 </p>
 
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <a href="https://tiktok.com/@piyomuri"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tiktok/white"><img src="https://cdn.simpleicons.org/tiktok/black" width="42"></picture></a> | <a href="https://youtube.com/@piyomuri"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/youtube/white"><img src="https://cdn.simpleicons.org/youtube/black" width="42"></picture></a> | <a href="https://instagram.com/piyomuri"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/white"><img src="https://cdn.simpleicons.org/instagram/black" width="42"></picture></a> | <a href="https://x.com/@piyomuri"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white"><img src="https://cdn.simpleicons.org/x/black" width="42"></picture></a> |
 ---
 
 ### 🛠 Tech Stack
