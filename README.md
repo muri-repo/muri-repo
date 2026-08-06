@@ -8,10 +8,6 @@
   Focused on High-Performance Systems & Premium UI/UX
 </p>
 
-| | | | |
-| :---: | :---: | :---: | :---: |
-| <a href="https://tiktok.com/@piyomuri"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tiktok/white"><img src="https://cdn.simpleicons.org/tiktok/black" width="42"></picture></a> | <a href="https://youtube.com/@piyomuri"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/youtube/white"><img src="https://cdn.simpleicons.org/youtube/black" width="42"></picture></a> | <a href="https://instagram.com/piyomuri"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/white"><img src="https://cdn.simpleicons.org/instagram/black" width="42"></picture></a> | <a href="https://x.com/@muri_offical"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white"><img src="https://cdn.simpleicons.org/x/black" width="42"></picture></a> |
----
 
 ### 🛠 Tech Stack
 #### 🖥 Frontend Development
